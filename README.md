@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shanoxx
-- 👀 I’m interested in road and mountain cycling
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on IT industry
+- 👋 Hi, I’m Lukas
+- 👀 i'm a sports enthusiast
+- 🌱 I’m currently learning SQL Phyton
+- 💞️ I really want to get along with IT industry
 - 📫 How to reach me - instagram: lvki07
 
 <!---
