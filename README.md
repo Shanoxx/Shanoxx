@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lukas
 - 👀 i'm a sports enthusiast
-- 🌱 currently learning hot to programming in SQL and Phyton
+- 🌱 currently learning hot to programming in Phyton
 - 💞️ I want to get along with IT industry
 - 📫 How to reach me - instagram: lvki07
 
