@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Lukas
-- 👀 i'm a sports enthusiast
-- 🌱 programming in Phyton => pip install lukasfirst
-- 💞️ "The app is kind of sweet."
+- 👀 >>>In progress<<<
+- 🌱 Programming in Phyton => pip install lukasfirst
+- 💞️ Now is better than never.
+     Although never is often better than *right* now.
 - 📫 How to reach me - linkedin.com/in/łukasz-grot-452219149
 
 <!---
